@@ -17,6 +17,8 @@ class ViewController: UIViewController {
     //これこれこれテストととと
     
     //ちんちん
+    //rrr
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
