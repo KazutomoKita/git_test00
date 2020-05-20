@@ -13,6 +13,9 @@ class ViewController: UIViewController {
     //test
     //test
     
+    //これこれテスト
+    //これこれこれテストととと
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
